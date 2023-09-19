@@ -1,0 +1,363 @@
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\ApplicationInsights.config
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\csc.exe
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\vbc.exe
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\WebApiCshsrp.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\WebApiCshsrp.pdb
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Antlr3.Runtime.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Web.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Newtonsoft.Json.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Owin.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Net.Http.Formatting.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Helpers.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.Owin.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.WebHost.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Mvc.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Optimization.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Razor.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\WebGrease.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Web.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Newtonsoft.Json.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Net.Http.Formatting.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Helpers.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.WebHost.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Mvc.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Optimization.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Razor.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.Owin.xml
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.dll
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.pdb
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.AssemblyReference.cache
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Documents\Visual Studio 2015\Projects\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\ApplicationInsights.config
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\csc.exe
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\vbc.exe
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\WebApiCshsrp.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\WebApiCshsrp.pdb
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Antlr3.Runtime.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Web.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Newtonsoft.Json.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Owin.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Net.Http.Formatting.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Helpers.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.Owin.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.WebHost.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Mvc.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Optimization.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Razor.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\WebGrease.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Web.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Newtonsoft.Json.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Net.Http.Formatting.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Helpers.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.WebHost.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Mvc.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Optimization.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Razor.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.Owin.xml
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.dll
+C:\Users\Anderson\source\repos\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.pdb
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\ApplicationInsights.config
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\csc.exe
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\vbc.exe
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\WebApiCshsrp.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\WebApiCshsrp.pdb
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Antlr3.Runtime.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\EntityFramework.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.Web.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Newtonsoft.Json.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Net.Http.Formatting.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Helpers.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Http.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Http.Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Http.WebHost.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Mvc.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Optimization.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Razor.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.WebPages.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\WebGrease.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.Web.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Newtonsoft.Json.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Net.Http.Formatting.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Helpers.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Http.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Http.WebHost.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Mvc.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Optimization.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Razor.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.WebPages.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\EntityFramework.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\bin\System.Web.Http.Owin.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\obj\Debug\WebApiCshsrp.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\obj\Debug\WebApiCshsrp.pdb
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp -2\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.AssemblyReference.cache
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\ApplicationInsights.config
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\csc.exe
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\vbc.exe
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\WebApiCshsrp.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\WebApiCshsrp.pdb
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Antlr3.Runtime.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Web.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Newtonsoft.Json.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Net.Http.Formatting.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Helpers.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.Owin.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.WebHost.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Mvc.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Optimization.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Razor.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\WebGrease.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.Web.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Newtonsoft.Json.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Net.Http.Formatting.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Helpers.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.WebHost.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Mvc.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Optimization.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Razor.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Antlr3.Runtime.pdb
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\bin\System.Web.Http.Owin.xml
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.AssemblyReference.cache
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.dll
+C:\Users\Anderson\source\repos\APIS\WebApiCshsrp\WebApiCshsrp\obj\Debug\WebApiCshsrp.pdb

@@ -1,0 +1,98 @@
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.exe.config
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.exe
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.pdb
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\RestSharp.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Buffers.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Memory.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Json.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.ValueTuple.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\RestSharp.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Buffers.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Memory.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Json.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.ValueTuple.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.Form1.resources
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.Properties.Resources.resources
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.exe
+C:\Users\Anderson\source\repos\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.pdb
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.exe.config
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.exe
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.pdb
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\RestSharp.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Buffers.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Memory.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Text.Json.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.ValueTuple.dll
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\RestSharp.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Buffers.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Memory.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Text.Json.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\bin\Debug\System.ValueTuple.xml
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.Form1.resources
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.Properties.Resources.resources
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.exe
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.pdb
+C:\Users\Anderson\source\repos\ApiConsumirCsharp -2\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.AssemblyReference.cache
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.exe.config
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.exe
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\ApiConsumirCsharp.pdb
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\RestSharp.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Buffers.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Memory.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Json.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.ValueTuple.dll
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\RestSharp.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Buffers.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Memory.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Text.Json.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\bin\Debug\System.ValueTuple.xml
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.AssemblyReference.cache
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.Form1.resources
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.Properties.Resources.resources
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.GenerateResource.cache
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.csproj.CopyComplete
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.exe
+C:\Users\Anderson\source\repos\APIS\ApiConsumirCsharp\ApiConsumirCsharp\obj\Debug\ApiConsumirCsharp.pdb
